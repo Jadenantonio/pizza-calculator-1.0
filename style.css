@@ -1,0 +1,19 @@
+H1 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#script {
+    font-size: 30px;
+    text-align: center;
+}
